@@ -1,0 +1,14 @@
+[package]
+name = "akira"
+version = "0.1.0"
+authors = ["Madao <chrishyman256@gmail.com>"]
+edition = "2018"
+description = "Akira is a Rust Full Stack framework"
+documentation = "https://github.com/Akira-rust/Akira.rs"
+repository = "https://github.com/Akira-rust/Akira.rs"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rocket = "0.4.2"
+diesel = "1.4.3"
